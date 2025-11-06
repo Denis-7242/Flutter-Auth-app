@@ -346,8 +346,8 @@ dependencies {
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
-cd lock_in
+git clone <https://github.com/Denis-7242/Flutter-Auth-app >
+cd Flutter-Auth-app
 ```
 ### 2.Updating cloned Repository
 ```bash
